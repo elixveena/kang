@@ -22,13 +22,16 @@ Untracked files:
 	.swo
 	.swp
 	.viminfo
+	git_status
 	git_status_report.sh
 	grace.sh
 	gyang
 	my-app-store/
 	my-lab3-project/
 	my-repo/
+	myrepo/
 	ochanya/
+	precious/
 	status_report.sh
 
 no changes added to commit (use "git add" and/or "git commit -a")
